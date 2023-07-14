@@ -85,6 +85,31 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
 
+![image](https://github.com/ijoshua932/post-install-config/assets/139269375/9b4cbe6b-76ef-463b-964a-dfb37b2ce5ec)
+![image](https://github.com/ijoshua932/post-install-config/assets/139269375/3611b159-a2c4-4eda-86b1-408a7da233f5)
+![image](https://github.com/ijoshua932/post-install-config/assets/139269375/6f5260cf-cbb4-4a9c-84ea-fe67f49bfc77)
+![image](https://github.com/ijoshua932/post-install-config/assets/139269375/2d3f62e3-a0f3-45cc-a56f-aa4eda078317)
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/ijoshua932/post-install-config/assets/139269375/ce618aa9-3580-47e8-9a8e-9798681545d9)
+![image](https://github.com/ijoshua932/post-install-config/assets/139269375/1017f2aa-361c-4eb4-98ae-cfcdc339c27f)
+![image](https://github.com/ijoshua932/post-install-config/assets/139269375/c8fd7217-8ebd-43f6-b29d-67d15648ad81)
+![image](https://github.com/ijoshua932/post-install-config/assets/139269375/43af38a3-d166-40bb-97b6-878ed9917323)
+![image](https://github.com/ijoshua932/post-install-config/assets/139269375/097edc9b-d3ca-4f6f-b828-e5e74459be06)
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+
 
 </p>
 <p>
