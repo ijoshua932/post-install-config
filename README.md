@@ -110,7 +110,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
 
-
+![image](https://github.com/ijoshua932/post-install-config/assets/139269375/d1052b5a-52e7-477b-9a5b-67e33813de80)
+![image](https://github.com/ijoshua932/post-install-config/assets/139269375/4178ec13-9534-4e77-b2d4-8c4ea574e758)
+![image](https://github.com/ijoshua932/post-install-config/assets/139269375/dc88cdc8-f2c1-4845-b992-b7e2633ab5ee)
+![image](https://github.com/ijoshua932/post-install-config/assets/139269375/941b45ae-6324-4200-bc28-7ca5752d3b61)
+![image](https://github.com/ijoshua932/post-install-config/assets/139269375/f294c0e8-bf32-4d58-a17f-342c3b8a3a85)
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
