@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration and creating accounts of t
 ![image](https://github.com/ijoshua932/post-install-config/assets/139269375/b4870b1f-7253-49eb-8918-c51e25047882)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+If you have successfully filled in all the necessary information during the setup process of osTicket, you should see the osTicket interface or dashboard. This interface typically displays options to manage tickets, configure settings, and interact with your support system. Additionally, you may notice various features like ticket queues, ticket search, and customer interactions, indicating that osTicket has been set up correctly.
 </p>
 <br />
 
